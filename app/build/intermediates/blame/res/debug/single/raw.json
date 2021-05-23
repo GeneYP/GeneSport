@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\raw\\enhance.mp4",
+        "source": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\raw\\enhance.mp4"
+    },
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\raw\\acme.mp4",
+        "source": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\raw\\acme.mp4"
+    },
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\YPsport\\app\\build\\intermediates\\res\\merged\\debug\\raw\\acme.mp4",
+        "source": "F:\\MyCode\\AndroidCode\\YPsport\\app\\src\\main\\res\\raw\\acme.mp4"
+    },
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\YPsport\\app\\build\\intermediates\\res\\merged\\debug\\raw\\enhance.mp4",
+        "source": "F:\\MyCode\\AndroidCode\\YPsport\\app\\src\\main\\res\\raw\\enhance.mp4"
+    },
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\raw\\base.mp4",
+        "source": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\raw\\base.mp4"
+    },
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\YPsport\\app\\build\\intermediates\\res\\merged\\debug\\raw\\base.mp4",
+        "source": "F:\\MyCode\\AndroidCode\\YPsport\\app\\src\\main\\res\\raw\\base.mp4"
+    },
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\raw\\movie.mp4",
+        "source": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\raw\\movie.mp4"
+    }
+]

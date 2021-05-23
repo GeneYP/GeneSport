@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:9:5-61:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\b10656d071c0dedc2a5183f55b5fb268b196df51\output\AndroidManifest.xml:9:5-20
+MERGED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:11:5-29:19
+MERGED from [com.android.support:design:25.3.0] C:\Android\.android\build-cache\ab73563851cc94945bcbd957b7a0c763f5c52f0e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Android\.android\build-cache\aa9096c67ba0f5a190aeab32e85d35ff4e1c95db\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Android\.android\build-cache\8aed2c284409089b0944c6a4e42c961b82929f66\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Android\.android\build-cache\379681261544c0a117c3f71f615f26cdee0556fb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Android\.android\build-cache\2350da4317ba00705d91cb4e3a46f1f45488069f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Android\.android\build-cache\d23081dfa8c48cf64309434ba13bcfb3d5703d72\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Android\.android\build-cache\3f43cb2668405001756eb9e50aa3e794940b31a2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Android\.android\build-cache\1d368e046bbdc9dfbc9264fe61b4ec60288b74d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Android\.android\build-cache\8d904e6a9818d179485f69e6c4ac9ddb11779a67\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Android\.android\build-cache\bffc2f6037b4b761b1994fc1853d50f291c435cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Android\.android\build-cache\67566a60ea2c8d6ccd80113d853ca73ff39294fe\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:13:9-52
+	android:allowBackup
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:11:9-41
+	android:theme
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:16:9-44
+activity#com.example.genesport.view.MainActivity
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:18:9-21:52
+	android:screenOrientation
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:21:13-49
+	android:launchMode
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:20:13-43
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:19:13-46
+activity#com.example.genesport.view.LoginActivity
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:23:9-32:20
+	android:screenOrientation
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:26:13-49
+	android:launchMode
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:25:13-43
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:24:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.genesport.view.DateCheckActivity
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:35:9-38:52
+	android:screenOrientation
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:38:13-49
+	android:launchMode
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:36:13-51
+activity#com.example.genesport.view.ReleaseNewsActivity
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:40:9-43:52
+	android:screenOrientation
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:43:13-49
+	android:launchMode
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:42:13-43
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:41:13-53
+activity#com.example.genesport.view.HomepageActivity
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:44:9-47:52
+	android:screenOrientation
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:47:13-49
+	android:launchMode
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:45:13-50
+activity#com.example.genesport.view.NewsDetailActivity
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:48:9-51:52
+	android:screenOrientation
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:51:13-49
+	android:launchMode
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:50:13-43
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:49:13-52
+activity#com.example.genesport.view.BeforeDateCheckActivity
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:52:9-55:52
+	android:screenOrientation
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:55:13-49
+	android:launchMode
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:54:13-43
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:53:13-57
+activity#com.example.genesport.view.VideoPlayer
+ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:57:9-60:53
+	android:screenOrientation
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:60:13-50
+	android:launchMode
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:59:13-43
+	android:name
+		ADDED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml:58:13-45
+uses-sdk
+INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\b10656d071c0dedc2a5183f55b5fb268b196df51\output\AndroidManifest.xml:5:5-7:41
+MERGED from [cn.aigestudio.datepicker:DatePicker:2.2.0] C:\Android\.android\build-cache\ceb3d1d1cb223466ca1c3267f13529153d04bf29\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Android\.android\build-cache\5ba03edaa60889c7f92bb5a704c037022157281b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.0] C:\Android\.android\build-cache\ab73563851cc94945bcbd957b7a0c763f5c52f0e\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Android\.android\build-cache\aa9096c67ba0f5a190aeab32e85d35ff4e1c95db\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Android\.android\build-cache\8aed2c284409089b0944c6a4e42c961b82929f66\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Android\.android\build-cache\379681261544c0a117c3f71f615f26cdee0556fb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Android\.android\build-cache\2350da4317ba00705d91cb4e3a46f1f45488069f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] C:\Android\.android\build-cache\d23081dfa8c48cf64309434ba13bcfb3d5703d72\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Android\.android\build-cache\3f43cb2668405001756eb9e50aa3e794940b31a2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Android\.android\build-cache\1d368e046bbdc9dfbc9264fe61b4ec60288b74d5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Android\.android\build-cache\8d904e6a9818d179485f69e6c4ac9ddb11779a67\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Android\.android\build-cache\9c61d57519d94320cafb83063a27153f1e6eeb28\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Android\.android\build-cache\bffc2f6037b4b761b1994fc1853d50f291c435cb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Android\.android\build-cache\67566a60ea2c8d6ccd80113d853ca73ff39294fe\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Android\.android\build-cache\ab73563851cc94945bcbd957b7a0c763f5c52f0e\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyCode\AndroidCode\YPsport\app\src\main\AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:18:17-67
+activity#com.sangcomz.fishbun.ui.album.AlbumActivity
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:22:9-25:72
+	android:label
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:24:13-42
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:23:13-71
+activity#com.sangcomz.fishbun.ui.picker.PickerActivity
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:26:9-28:72
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Android\.android\build-cache\fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6\output\AndroidManifest.xml:27:13-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] C:\Android\.android\build-cache\ab73563851cc94945bcbd957b7a0c763f5c52f0e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Android\.android\build-cache\aa9096c67ba0f5a190aeab32e85d35ff4e1c95db\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Android\.android\build-cache\8aed2c284409089b0944c6a4e42c961b82929f66\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Android\.android\build-cache\379681261544c0a117c3f71f615f26cdee0556fb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Android\.android\build-cache\2350da4317ba00705d91cb4e3a46f1f45488069f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Android\.android\build-cache\d23081dfa8c48cf64309434ba13bcfb3d5703d72\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Android\.android\build-cache\3f43cb2668405001756eb9e50aa3e794940b31a2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Android\.android\build-cache\1d368e046bbdc9dfbc9264fe61b4ec60288b74d5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Android\.android\build-cache\8d904e6a9818d179485f69e6c4ac9ddb11779a67\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Android\.android\build-cache\9c61d57519d94320cafb83063a27153f1e6eeb28\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Android\.android\build-cache\bffc2f6037b4b761b1994fc1853d50f291c435cb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Android\.android\build-cache\67566a60ea2c8d6ccd80113d853ca73ff39294fe\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] C:\Android\.android\build-cache\ab73563851cc94945bcbd957b7a0c763f5c52f0e\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] C:\Android\.android\build-cache\ab73563851cc94945bcbd957b7a0c763f5c52f0e\output\AndroidManifest.xml:26:9-47

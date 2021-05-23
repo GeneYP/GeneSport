@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\YPsport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\MyCode\\AndroidCode\\YPsport\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\YPsport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\MyCode\\AndroidCode\\YPsport\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\MyCode\\AndroidCode\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

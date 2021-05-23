@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">锦日运动</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">欢迎来到 锦日运动</string>
+
+    <!--登录/注册-->
+    <string name="username">用户名</string>
+    <string name="login_txt">登录</string>
+    <string name="sex">性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="height">身高</string>
+    <string name="weight">体重</string>
+    <string name="password">密码</string>
+    <string name="hint_username">请输入用户名</string>
+    <string name="hint_password">请输入密码</string>
+    <!--登录/注册-->
+
+    <!--锻炼-->
+    <string name="level_base_title">小白入门</string>
+    <string name="level_base_head">萌新 Lv.1</string>
+    <string name="level_base_info">8分钟  初级训练</string>
+    <string name="level_enhance_title">学有所成</string>
+    <string name="level_enhance_head">专家 Lv.9</string>
+    <string name="level_enhance_info">9分钟  中级训练</string>
+    <string name="level_acme_title">健身狂魔</string>
+    <string name="level_acme_head">大神 Lv.99</string>
+    <string name="level_acme_info">11分钟  高级训练</string>
+    <!--锻炼-->
+
+    <!--发现-->
+    <string name="slash">/</string>
+    <string name="found_top_info">运动圈</string>
+    <string name="found_list_top_title">动态</string>
+    <!--发现-->
+
+    <!--我的-->
+    <string name="me_homepage_text">个人资料</string>
+    <string name="me_exercise_unit">训练时间 / 分钟</string>
+    <string name="me_record_uint">累计签到 / 天</string>
+    <string name="me_exit_text">退出登录</string>
+    <string name="me_record_text">打卡记录</string>
+    <string name="me_record_number">0</string>
+    <!--我的-->
+
+
+    <!-- 首页 -->
+    <string name="bottom_train">锻炼</string>
+    <string name="bottom_found">动态</string>
+    <string name="bottom_me">我</string>
+    <string name="title_train">锻炼</string>
+    <string name="title_found">动态</string>
+    <string name="title_me">我</string>
+    <!-- 首页 -->
+
+    <!--打卡-->
+    <string name="date_check_text">今日打卡</string>
+    <string name="before_date_check_text">每日打卡</string>
+    <!--打卡-->
+
+    <!--动态-->
+    <string name="add_news_btn_release_txt">发动态</string>
+    <string name="add_news_et_title_hint_text">标题</string>
+    <string name="add_news_et_hint_text">说说你的锻炼心得吧……</string>
+    <!--动态-->
+
+    <!--服务器-->
+    <string name="config_server_config_title">服务器</string>
+    <string name="config_server_config_ip">IP地址:</string>
+    <string name="config_server_config_ip_hint">输入服务器IP地址</string>
+    <string name="config_server_config_port">端口号:</string>
+    <string name="config_server_config_port_hint">输入服务器的端口号</string>
+    <string name="config_btn_save_txt">保存</string>
+    <!--服务器-->
+
+    <!--个人主页-->
+    <string name="homepage_btn_update">更新资料</string>
+    <string-array name="sex_array">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <!--个人主页-->
+
+    <!--动态详细-->
+    <string name="new_detail_comment">全部评论</string>
+    <string name="new_detail_add_comment">评论</string>
+    <string name="new_detail_add_favor">收藏</string>
+    <string name="new_detail_add_comment_hint">发表回复……</string>
+    <!--动态详细-->
+
+</resources>

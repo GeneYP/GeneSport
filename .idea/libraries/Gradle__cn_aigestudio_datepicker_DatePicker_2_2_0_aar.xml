@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.aigestudio.datepicker:DatePicker:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://C:/Android/.android/build-cache/ceb3d1d1cb223466ca1c3267f13529153d04bf29/output/jars/classes.jar!/" />
+      <root url="file://C:/Android/.android/build-cache/ceb3d1d1cb223466ca1c3267f13529153d04bf29/output/res" />
+      <root url="file://C:/Android/.android/build-cache/ceb3d1d1cb223466ca1c3267f13529153d04bf29/output/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/cn.aigestudio.datepicker/DatePicker/2.2.0/f0bd03160660adf2ad6390cea161fadb77c18255/DatePicker-2.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/cn.aigestudio.datepicker/DatePicker/2.2.0/af595f557ce944407662fec17d4782bd11bb4189/DatePicker-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

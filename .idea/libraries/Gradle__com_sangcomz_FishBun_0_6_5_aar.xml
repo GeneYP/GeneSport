@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sangcomz:FishBun:0.6.5@aar">
+    <CLASSES>
+      <root url="jar://C:/Android/.android/build-cache/fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6/output/jars/classes.jar!/" />
+      <root url="file://C:/Android/.android/build-cache/fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6/output/res" />
+      <root url="file://C:/Android/.android/build-cache/fbb5cdb3c011b3714ee7da15077ef4f7836a7cc6/output/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/com.sangcomz/FishBun/0.6.5/4f22479da68d7917633f88b35e13e458597448bf/FishBun-0.6.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Android/.gradle/caches/modules-2/files-2.1/com.sangcomz/FishBun/0.6.5/33499a5dfe53d37945fcabe19b6760aa72a477d/FishBun-0.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
