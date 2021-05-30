@@ -36,7 +36,6 @@
             android:name=".view.DateCheckActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait" />
-
         <activity
             android:name=".view.ReleaseNewsActivity"
             android:launchMode="singleTop"
@@ -53,7 +52,10 @@
             android:name=".view.BeforeDateCheckActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait" />
-
+        <activity
+            android:name=".view.FavorsListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".view.VideoPlayer"
             android:launchMode="singleTop"

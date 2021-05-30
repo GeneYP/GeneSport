@@ -17,6 +17,7 @@ import com.example.genesport.R;
 import com.example.genesport.utils.AppManager;
 import com.example.genesport.utils.Constants;
 import com.example.genesport.view.BeforeDateCheckActivity;
+import com.example.genesport.view.FavorsListActivity;
 import com.example.genesport.view.HomepageActivity;
 import com.example.genesport.view.LoginActivity;
 import com.zhy.http.okhttp.OkHttpUtils;
@@ -31,6 +32,7 @@ public class MeFragment extends Fragment implements View.OnClickListener {
 
     private LinearLayout homepage;
     private LinearLayout record;
+    private LinearLayout favor;
 
     private TextView usernameTV;
     private TextView exerciseTimeTextView;
@@ -50,6 +52,7 @@ public class MeFragment extends Fragment implements View.OnClickListener {
     public void findViewById(View v) {
         homepage = (LinearLayout) v.findViewById(R.id.me_homepage);
         record = (LinearLayout) v.findViewById(R.id.me_item_reord);
+        favor = (LinearLayout) v.findViewById(R.id.me_item_favor);
         usernameTV = (TextView) v.findViewById(R.id.me_homepage_username);
         exerciseTimeTextView = (TextView) v.findViewById(R.id.me_exercise_time);
         recordDaysTextView = (TextView) v.findViewById(R.id.me_record_days);
@@ -59,7 +62,7 @@ public class MeFragment extends Fragment implements View.OnClickListener {
     public void initView() {
         homepage.setOnClickListener(this);
         record.setOnClickListener(this);
-
+        favor.setOnClickListener(this);
         exit.setOnClickListener(this);
         
         echo();
@@ -92,6 +95,9 @@ public class MeFragment extends Fragment implements View.OnClickListener {
                 break;
             case R.id.me_item_reord:
                 startActivity(new Intent(getActivity(), BeforeDateCheckActivity.class));
+                break;
+            case R.id.me_item_favor:
+                startActivity(new Intent(getActivity(), FavorsListActivity.class));
                 break;
             case R.id.me_item_exit:
                 SystemClock.sleep(500);

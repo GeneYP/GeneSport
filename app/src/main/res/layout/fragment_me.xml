@@ -68,7 +68,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="5dp"
                 android:background="@color/white"
                 android:gravity="center_vertical"
                 android:orientation="horizontal"
@@ -132,11 +132,12 @@
                 </LinearLayout>
             </LinearLayout>
             <!--record-->
+
             <!--comment/record-->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="5dp"
                 android:background="@color/white"
                 android:orientation="vertical">
 
@@ -175,6 +176,49 @@
                             android:src="@drawable/ic_common_right_arrow" />
                     </LinearLayout>
                 </LinearLayout>
+                <!--favor-->
+                <LinearLayout
+                    android:id="@id/me_item_favor"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp">
+
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:src="@drawable/ic_feed_is_fav" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:padding="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="@string/me_favor_text"
+                            android:textSize="14sp" />
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/ic_common_right_arrow" />
+                    </LinearLayout>
+                </LinearLayout>
+                <!--favor-->
+                <!--split-->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.2dp"
+                    android:layout_marginLeft="50dp"
+                    android:background="@color/lightgray" />
+                <!--split-->
                 <!--record-->
             </LinearLayout>
             <!--comment/record-->
@@ -183,7 +227,7 @@
                 android:id="@id/me_item_exit"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:layout_marginTop="15dp"
+                android:layout_marginTop="5dp"
                 android:background="@color/white"
                 android:gravity="center"
                 android:text="@string/me_exit_text"

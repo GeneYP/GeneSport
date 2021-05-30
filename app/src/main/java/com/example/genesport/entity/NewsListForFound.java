@@ -1,6 +1,6 @@
 package com.example.genesport.entity;
 
-//动态列表类
+//帖子列表的对象类
 public class NewsListForFound {
     private int newsId;
     private String title;

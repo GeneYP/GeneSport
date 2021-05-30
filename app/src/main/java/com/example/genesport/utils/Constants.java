@@ -12,7 +12,7 @@ public class Constants {
 	//打卡列表
 	public static List<String> DAILYCHECKEDLIST;
 	// 服务器地址，要一直改好麻烦
-	public static String BASE_URL = "http://10.8.253.84:8080/MyServer/";
+	public static String BASE_URL = "http://10.8.245.43:8080/MyServer/";
 
 	//本来想写上传图片的，还没写完
 }

@@ -66,6 +66,7 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
 
     @Override
     protected void findViewById() {
+        //相当于this.xxx = findViewById(R.id.xxx);
         this.title_back = $(R.id.title_back);
         this.titleText = $(R.id.titleText);
 

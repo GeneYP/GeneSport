@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.lilei.fitness.view.MainActivity">
+    tools:context="com.example.genesport.view.MainActivity">
 
     <include layout="@layout/title_index" />
 
@@ -15,7 +15,6 @@
         android:layout_weight="1"
         android:orientation="vertical">
     </LinearLayout>
-
 
     <include layout="@layout/bottom_navigation" />
 

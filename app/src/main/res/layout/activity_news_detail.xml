@@ -74,6 +74,7 @@
                 android:adjustViewBounds="true"
                 android:scaleType="centerCrop"
                 android:src="@drawable/start1" />
+            <!--  adjustViewBounds根据宽度调整  -->
 
             <TextView
                 android:id="@id/news_detail_content"

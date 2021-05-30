@@ -2,7 +2,7 @@ package com.example.genesport.entity;
 
 import java.util.List;
 
-//动态的对象类
+//帖子的对象类
 public class NewsDetail {
 
     private int newsId;

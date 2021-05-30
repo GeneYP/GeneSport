@@ -84,20 +84,17 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         switch (v.getId()) {
             case R.id.bottom_train:
                 changeTabState(R.id.bottom_train);
-                changeTitle(R.string.title_train);
                 topButtonChange(R.id.up_btn_check);
                 refreashFragment(R.id.bottom_train);
                 break;
             case R.id.bottom_found:
                 topButtonChange(R.id.found_new_add);
                 changeTabState(R.id.bottom_found);
-                changeTitle(R.string.title_found);
                 refreashFragment(R.id.bottom_found);
                 break;
             case R.id.bottom_me:
                 topButtonChange(0);
                 changeTabState(R.id.bottom_me);
-                changeTitle(R.string.title_me);
                 refreashFragment(R.id.bottom_me);
                 break;
             case R.id.up_btn_check:
@@ -120,10 +117,6 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
             btnCheck.setVisibility(View.GONE);
             btnAddNews.setVisibility(View.GONE);
         }
-    }
-
-    private void changeTitle(int stringId) {
-        // txtTitle.setText(getResources().getString(stringId));
     }
 
     //切换fragment

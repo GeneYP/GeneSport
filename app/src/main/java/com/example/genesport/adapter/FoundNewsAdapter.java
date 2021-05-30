@@ -13,7 +13,6 @@ import com.example.genesport.entity.NewsListForFound;
 
 import java.util.List;
 
-
 //动态页的Adapter
 public class FoundNewsAdapter extends BaseAdapter {
 

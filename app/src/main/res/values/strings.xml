@@ -42,6 +42,7 @@
     <string name="me_record_uint">累计签到 / 天</string>
     <string name="me_exit_text">退出登录</string>
     <string name="me_record_text">打卡记录</string>
+    <string name="me_favor_text">我的收藏</string>
     <string name="me_record_number">0</string>
     <!--我的-->
 
